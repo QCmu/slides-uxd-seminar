@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="522px" height="356px" viewBox="0 0 522 356" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5">
+            <path d="M111.003263,179 C111.541109,261.382478 178.490876,328 261,328 L261,258 C217.151035,258 181.541698,222.721956 181.006122,179 L111.003263,179 Z" id="Combined-Shape" fill="#F8E81C"></path>
+            <path d="M410.996737,179 C410.458891,261.382478 343.509124,328 261,328 L261,258 C304.848965,258 340.458302,222.721956 340.993878,179 L410.996737,179 Z" id="Combined-Shape" fill="#FF6A6A"></path>
+            <path d="M261,28 C178.157288,28 111,95.1572875 111,178 C111,178.333589 111.001089,178.666923 111.003263,179 L181.006122,179 C181.002045,178.667152 181,178.333815 181,178 C181,133.81722 216.81722,98 261,98 L261,28 Z" id="Combined-Shape" fill="#DB2780"></path>
+            <path d="M410.996737,179 C410.998911,178.666923 411,178.333589 411,178 C411,95.1572875 343.842712,28 261,28 L261,98 C305.18278,98 341,133.81722 341,178 C341,178.333815 340.997955,178.667152 340.993878,179 L410.996737,179 Z" id="Combined-Shape" fill="#5AAAFA"></path>
+            <text id="Growth" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#FFFFFF">
+                <tspan x="293" y="93">Growth</tspan>
+            </text>
+            <text id="Maturity" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#FFFFFF">
+                <tspan x="293" y="265">Maturity</tspan>
+            </text>
+            <text id="Decline" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#FFFFFF">
+                <tspan x="150" y="264">Decline</tspan>
+            </text>
+            <text id="Introduction" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#FFFFFF">
+                <tspan x="140" y="92">Introduction</tspan>
+            </text>
+            <text id="USER" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="37" font-weight="bold" fill="#FFFFFF">
+                <tspan x="210" y="192">USER</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
