@@ -1,0 +1,28 @@
+.pink-font{
+	color:#db2780 !important;
+}
+.yellow-font{
+	color:#facc2e !important;
+}
+.blue-font{
+	color:#5aaafa !important;
+}
+
+.pink-bg{
+	background-color:#db2780 !important;
+}
+.blue-bg{
+	background-color:#5aaafa !important;
+}
+.sg-img{
+	border:none !important;
+	background:none !important;
+	 box-shadow:none !important;
+}
+.flag{
+	background-color: #000;
+	color: #facc2e ;
+	width: 20%;
+	margin-left: 39% !important;
+	border-radius: 20px;
+}
